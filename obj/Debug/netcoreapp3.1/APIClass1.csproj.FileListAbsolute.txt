@@ -1,0 +1,147 @@
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.exe
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.deps.json
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.runtimeconfig.json
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.runtimeconfig.dev.json
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.dll
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.pdb
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.AssemblyInfoInputs.cache
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.AssemblyInfo.cs
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.csproj.CoreCompileInputs.cache
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\staticwebassets\APIClass1.StaticWebAssets.Manifest.cache
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\staticwebassets\APIClass1.StaticWebAssets.xml
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIClass1.styles.css
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.RazorTargetAssemblyInfo.cache
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.dll
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.pdb
+C:\Users\AliAhmed-PC\source\repos\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.genruntimeconfig.cache
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.exe
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.deps.json
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.runtimeconfig.json
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.runtimeconfig.dev.json
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.pdb
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.csproj.AssemblyReference.cache
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.AssemblyInfoInputs.cache
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.AssemblyInfo.cs
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.csproj.CoreCompileInputs.cache
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.MvcApplicationPartsAssemblyInfo.cache
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\staticwebassets\APIClass1.StaticWebAssets.Manifest.cache
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\staticwebassets\APIClass1.StaticWebAssets.xml
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIClass1.styles.css
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.RazorTargetAssemblyInfo.cache
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.csproj.CopyComplete
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.dll
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.pdb
+D:\Fiverr Orders\.Net Core\Man Jaiswal\Class 6\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.genruntimeconfig.cache
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.StaticWebAssets.xml
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.exe
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.deps.json
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.runtimeconfig.json
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.runtimeconfig.dev.json
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\APIClass1.pdb
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.csproj.AssemblyReference.cache
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.AssemblyInfoInputs.cache
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.AssemblyInfo.cs
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.csproj.CoreCompileInputs.cache
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\staticwebassets\APIClass1.StaticWebAssets.Manifest.cache
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.RazorTargetAssemblyInfo.cache
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.csproj.CopyComplete
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.dll
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.pdb
+C:\Users\mannj\Downloads\APIClass1\APIClass1\APIClass1\obj\Debug\netcoreapp3.1\APIClass1.genruntimeconfig.cache
